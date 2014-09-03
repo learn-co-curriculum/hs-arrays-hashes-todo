@@ -2,7 +2,7 @@
 
 You'll need to create a new ruby file inside your development directory. 
 
-In terminal, type 'touch arrays-hashes.rb'. You will code your solutions inside this file.
+In terminal, type `touch arrays-hashes.rb`. You will code your solutions inside this file.
 
 ###ARRAY:
 1. Create an array that contains strings of all of your favorite snacks.
