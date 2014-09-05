@@ -8,7 +8,7 @@ In terminal, type `touch arrays-hashes.rb`. You will code your solutions inside 
 1. Create an array that contains strings of all of your favorite snacks.
 You'll want to store your array in a variable.
 
-2. Iterate over your array of snacks to print out the sentence "<snack> is one of my favorite snacks"
+2. Iterate over your array of snacks to print out the sentence "#{snack} is one of my favorite snacks"
 
 3. Return the number of items in the array.
 
@@ -18,7 +18,7 @@ You'll want to store your array in a variable.
 
 ###HASH:
 
-1. Create a hash that describes your house. You'll want to store data relating to the number of bedrooms, number of bathrooms, type of house (apartment, condo, town house, house, etc), and size of house. You'll also want to store your hash in a variable.
+1. Create a hash that describes your house. You'll want to store data relating to the number of bedrooms, number of bathrooms, type of house (apartment, condo, town house, house, etc), and size of house in square feet. You'll also want to store your hash in a variable.
 
 2. Iterate over your house hash to print out the key value pairs.
 
